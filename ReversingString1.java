@@ -11,4 +11,4 @@ public class ReversingString1 {
     System.out.println("After Reversing: "+s2);
   }
 }
-//reversing of string ka code hai like siddharth pandey ko reverse karke pandey siddharth kar dena hai;
+//reversing of string ka code  likha hai like :- siddharth pandey ko reverse karke pandey siddharth kar dega;
